@@ -1,5 +1,3 @@
-# SE_4458_Pytorch_Project
- Training a CNN(Lenet 5) to distinguish between Mnist digits using Pytorch
  # Mnist Digits Classification with LeNet-5 using PyTorch
 
 This project demonstrates how to use a Convolutional Neural Network (CNN), specifically the LeNet-5 architecture, to classify handwritten digits from the Mnist dataset. The CNN model is implemented using PyTorch.
