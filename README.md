@@ -61,3 +61,6 @@ The trained model achieves an accuracy of 100% on the validation dataset, demons
 ## Conclusion
 
 In conclusion, this project illustrates the successful implementation of a CNN model using PyTorch for Mnist digit classification. PyTorch's flexibility, Pythonic syntax, and efficient GPU utilization make it an excellent choice for building and training CNNs for various computer vision tasks.
+
+## Presentation
+https://docs.google.com/presentation/d/1zt6NGi8LItF7KimiylEuqMJ_Ddt2xrAm/edit?usp=sharing&ouid=108063833803194181982&rtpof=true&sd=true
